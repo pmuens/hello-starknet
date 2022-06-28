@@ -1,0 +1,16 @@
+{
+  "[cairo]": {
+    "editor.defaultFormatter": "Starkware.cairo"
+  },
+  "[python]": {
+    "editor.formatOnPaste": false,
+    "editor.formatOnSaveMode": "file",
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  // TODO: Update
+  "python.formatting.blackPath": "",
+  // TODO: Update
+  "cairo.cairoFormatPath": ""
+}
